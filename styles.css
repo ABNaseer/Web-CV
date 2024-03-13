@@ -1,0 +1,44 @@
+.main{
+    width: 98vw;
+    height: 98vh;
+    border: 4px solid red;
+    background-color: lightblue;
+}
+.row1{
+    width: 100%;
+    height: 35%;
+    display: flex;
+}
+.pfp{
+    width:30%;
+    height:100%;
+    border: 4px solid plum;
+}
+.pfp img{
+    width:100%;
+    height:100%;
+}
+
+.contact{
+    width:70%;
+    height:100%;
+    border: 4px solid black;
+}
+.contact button:hover{
+cursor:pointer;
+}
+.row2{
+    width: 100%;
+    height: 65%;
+    display: flex; 
+}
+.background{
+    width:50%;
+    height:100%;
+    border: 4px solid purple;
+}
+.skills{
+    width:50%;
+    height:100%;
+    border: 4px solid pink;
+}
